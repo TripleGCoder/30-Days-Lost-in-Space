@@ -12,7 +12,7 @@ Gap between word: 7 unit
 #define DOT_TIME 200   // 1 Morse time unit (ms) – change this to speed up/slow down
 
 //----------------
-String MSG = "I Love You";// In the Quotation Marks write your message
+String MSG = "Hello";// In the Quotation Marks write your message
 //-------------------------------------------
 
 //define dot and dash function
