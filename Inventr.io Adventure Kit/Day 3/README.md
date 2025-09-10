@@ -20,7 +20,7 @@ Using a DIP (Dual in-line Package) switch and C++ Conditional "if/else" statemen
 - Feature 2
 
 # Installation
-## Required Materials:
+Required Materials:
  ```- Hero One Board        1x
     - Bread Board           1x
     - DIP Switch            1x
