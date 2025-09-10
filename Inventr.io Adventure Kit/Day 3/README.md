@@ -20,15 +20,17 @@ Using a DIP (Dual in-line Package) switch and C++ Conditional "if/else" statemen
 - Feature 2
 
 # Installation
-Required Materials:
- ```- Hero One Board        1x
-    - Bread Board           1x
-    - DIP Switch            1x
-    - LED Light             1x
-    - 220 Ohm resistor      1x
-    - 10k Ohm resistor      1x
-    - Male-to-Male Cable    5x
-    ```
+```
+**  Required Materials:  **
+
+        - Hero One Board        1x
+        - Bread Board           1x
+        - DIP Switch            1x
+        - LED Light             1x
+        - 220 Ohm resistor      1x
+        - 10k Ohm resistor      1x
+        - Male-to-Male Cable    5x
+```
 1. Clone repo
 2. Install dependencies
 3. Run app
